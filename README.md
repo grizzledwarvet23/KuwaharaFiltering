@@ -1,2 +1,2 @@
-# KuwaharaFiltering
+# Kuwahara Filtering
  
